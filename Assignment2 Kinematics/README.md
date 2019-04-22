@@ -4,7 +4,7 @@ Download the file [Assignment_2_kinematics.zip](https://drive.google.com/file/d/
 
 * Scalar Robotic:
 A 3 DOF scara robot, with an inverse kinematic solution that is possible in analytic form.
-![RL](https://github.com/R-Qu/DD2410-Robotics/blob/master/Assignment2%20Kinematics/kuka_info_large.png)
+![RL](https://github.com/R-Qu/DD2410-Robotics/blob/master/Assignment2%20Kinematics/scara_explanation_large.pngkuka_info_large.png)
 
 To visualize Scara, run: 
 
@@ -12,7 +12,7 @@ To visualize Scara, run:
 
 * Kuka Robotic:
 Solving this part will guarantee the best grade 
-![RL](https://github.com/R-Qu/DD2410-Robotics/blob/master/Assignment2%20Kinematics/scara_explanation_large.png)
+![RL](https://github.com/R-Qu/DD2410-Robotics/blob/master/Assignment2%20Kinematics/kuka_info_large.png)
 
 To visualize Kuka, run: 
 
