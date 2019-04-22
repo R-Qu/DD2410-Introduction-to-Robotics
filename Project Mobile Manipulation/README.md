@@ -2,6 +2,14 @@
 
 For the project to be run in personal computers, your own missing system dependencies have to be met, which can be done through the instructions in the [README](https://github.com/kth-ros-pkg/Robotics_intro/blob/master/README.md) in the repository.
 
+
+- [Pick&Carry&Place with visual sensing](https://eu.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUU4wd0Fvd2JDc0hzeHkvWEE9PS0tMzRhYjk2NzEwNjM5NzJlYWQyNjMwMzQyMzY4Nzk0ZTJjMWYzY2FiOQ.mp4)
+
+
+- [Pick&Carry&Place with visual sensing](https://eu.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUU40d0Fvd2JDc0gyaHkvWEE9PS0tODllZTNiZGViZWY3NDgzMDQ3MjM4YjM0ZTM4NWQxY2IwYjkxOGJkZg.mp4)
+
+- [Pick&Carry&Place with sensing and navigation](https://eu.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUU44d0Fvd2JDc0g1UnkvWEE9PS0tYjc2Mjc1NjUyOGQxZGQwOGM4MDQzM2EzZDMwZjZlNzI0NzQwNzA1ZA.mp4)
+
 #### Instructions:
 
 Download [the packages](https://github.com/kth-ros-pkg/Robotics_intro):
