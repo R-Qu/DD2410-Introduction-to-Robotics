@@ -1,8 +1,10 @@
 #### Project
+The project is to be carried out with a simulation in ROS and [Gazebo](http://gazebosim.org/) of a [TIAGo robot](http://tiago.pal-robotics.com/) in an appartment. The robot is equipped with several onboard sensors and a manipulator which make it capable of navigating its surroundings and interacting with the environment through simple manipulation tasks. The goal of the project is to modify and add the missing components of the given robot system that are necessary to accomplish increasingly more demanding pick, carry and place tasks.
 
-For the project to be run in personal computers, your own missing system dependencies have to be met, which can be done through the instructions in the [README](https://github.com/kth-ros-pkg/Robotics_intro/blob/master/README.md) in the repository.
+Screencut of the final presentation:
+![RL](https://github.com/R-Qu/DD2410-Robotics/blob/master/Project%20Mobile%20Manipulation/ProjectOverview.png)
 
-
+#### Videos for the following tasks:
 - [Pick&Carry&Place with visual sensing](https://eu.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUU4wd0Fvd2JDc0hzeHkvWEE9PS0tMzRhYjk2NzEwNjM5NzJlYWQyNjMwMzQyMzY4Nzk0ZTJjMWYzY2FiOQ.mp4)
 
 
@@ -11,6 +13,8 @@ For the project to be run in personal computers, your own missing system depende
 - [Pick&Carry&Place with sensing and navigation](https://eu.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUU44d0Fvd2JDc0g1UnkvWEE9PS0tYjc2Mjc1NjUyOGQxZGQwOGM4MDQzM2EzZDMwZjZlNzI0NzQwNzA1ZA.mp4)
 
 #### Instructions:
+
+For the project to be run in personal computers, your own missing system dependencies have to be met, which can be done through the instructions in the [README](https://github.com/kth-ros-pkg/Robotics_intro/blob/master/README.md) in the repository.
 
 Download [the packages](https://github.com/kth-ros-pkg/Robotics_intro):
 
