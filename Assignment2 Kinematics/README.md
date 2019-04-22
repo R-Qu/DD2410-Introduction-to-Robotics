@@ -1,4 +1,4 @@
 #### Assignment2
 
-##### Kuka Robotic
-##### Scalar Robotic
+* Kuka Robotic
+* Scalar Robotic
