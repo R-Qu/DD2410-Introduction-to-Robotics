@@ -17,3 +17,5 @@ Solving this part will guarantee the best grade
 To visualize Kuka, run: 
 
         roslaunch kinematics_assignment kuka_launch.launch
+
+For a solution to compute the robot's Jacobian, you can check the section "Jacobian computation" at page 111 in Springer's [Robotics: Modelling, Planning and Control](https://link.springer.com/book/10.1007%2F978-1-84628-642-1). 
