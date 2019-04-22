@@ -1,6 +1,6 @@
 #### Assignment2
 
-Download the file Assignment_2_kinematics.zip from [here](https://drive.google.com/file/d/1rWtw5aCTehons2TRChDsdTaCBcaOQ-0q/view?usp=sharing) and decompress it. Put the ROS package in your ROS workspace and run catkin_make. Remember to source the devel/setup.bash file if needed. The python file kinematics_assignment_metapackage/kinematics_assignment/scripts/IK_functions.py is the file you have to modify.
+Download the file [Assignment_2_kinematics.zip](https://drive.google.com/file/d/1rWtw5aCTehons2TRChDsdTaCBcaOQ-0q/view?usp=sharing) and decompress it. Put the ROS package in your ROS workspace and run catkin_make. Remember to source the devel/setup.bash file if needed. The python file kinematics_assignment_metapackage/kinematics_assignment/scripts/IK_functions.py is the file you have to modify.
 
 * Scalar Robotic:
 A 3 DOF scara robot, with an inverse kinematic solution that is possible in analytic form.
